@@ -1,8 +1,8 @@
 {
-    "token":"YOUR_BOT_TOKEN_HERE",
-    "commandPrefix":"/",
-    "ip":"YOUR_SERVER_IP_HERE",
-    "port":25565,
+    "token":"ODk0Nzc1NzA3NTE3OTk3MTM2.YVu60A.Mjz-YLZhIw1YMbjIweEj3EMa1hY",
+    "commandPrefix":"f.",
+    "ip":"Fantasia.mc-srv.com",
+    "port":7168,
     "pingInterval":"30",
     "embedColor":"7289DA"
 }
